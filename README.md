@@ -10,4 +10,5 @@ Deepak Kumar Sahu
 SOFTWARE DEVELOPER
 4 MONTHS
 # Preview image
+![Image](https://github.com/user-attachments/assets/866d8ce2-d69d-4acc-9ff5-f525446cc1ba)
 
