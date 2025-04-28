@@ -10,4 +10,4 @@ Deepak Kumar Sahu
 SOFTWARE DEVELOPER
 4 MONTHS
 # Preview image
-https://github.com/RepoWanderer/STATIC-WEBSITE-FOR-PORTFOLIO/blob/main/preview.png
+
